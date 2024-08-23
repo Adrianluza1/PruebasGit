@@ -1,4 +1,5 @@
 ### Ubiquitous Language
+### Como funciona?
 
 1. **Paciente**
    - Individuo que está recibiendo atención y tratamiento por parte de un psiquiatra o profesional de la salud mental en el contexto de un centro psiquiátrico.
